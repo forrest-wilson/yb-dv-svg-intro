@@ -1,0 +1,21 @@
+#canvas {
+    width: 1000px;
+    height: 600px;
+    border: 1px black solid;
+    margin: 0 auto;
+    display: block;
+}
+
+.box {
+    width: 400px;
+    height: 100px;
+    position: relative;
+    z-index: 100;
+    display: block;
+}
+
+#bartSimpson {
+    width: 600px;
+    height: 700px;
+    border: 1px solid black;
+}
